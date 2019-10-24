@@ -2,7 +2,7 @@
 
 How it works
 
-The program was builded using nodejs, specifically approaching the request benefit of axios to get the response of the Apir from Oxford University. 
+The program was builded using nodejs, specifically approaching the request benefit of axios to get the response of the API from Oxford University. 
 
 -  Here the documentation of the  API: [OxFord-Dictionary](https://developer.oxforddictionaries.com) and get your own API Key.
 
