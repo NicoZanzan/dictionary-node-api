@@ -1,16 +1,14 @@
-# dictionary-cli
+# dictionary-node-api
 
-## Instructions for students:
+How it works
 
-Create a program which uses the Oxford Dictionary API. The dictionary should give the definition of any given word. 
+The program was builded using nodejs, specifically approaching the request benefit of axios to get the response of the Apir from Oxford University. 
 
--  Make sure to use this API: [OxFord-Dictionary](https://developer.oxforddictionaries.com) and get your own API Key.
+-  Here the documentation of the  API: [OxFord-Dictionary](https://developer.oxforddictionaries.com) and get your own API Key.
 
--  Your project should have an `index.js` file and any other files required.
+-  To check the documentation for using axios: [axios](https://github.com/axios/axios) 
 
--  Documentation for using axios: [axios](https://github.com/axios/axios) 
-
--  Example once your program is running properly:
+-  If you want to know how it works, just write in the terminal:
 
  ```bash
 $ node index.js happy
@@ -24,8 +22,4 @@ Provided by: Oxford University Press
 
 
 
-### Rules
-
--   This is an individual assignment.
--   Deadline: 4 hours to 1 day.
 
